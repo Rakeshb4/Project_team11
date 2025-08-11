@@ -1,4 +1,4 @@
-# 🍽️ TasteBuds Kitchen - About Us Page  
+# 🍽️ FOODIE HUB - About Us Page  
 
 This project is an **About Us** page for a fictional food booking website, **TasteBuds Kitchen**.  
 It highlights the restaurant's story, vision, mission, achievements, team members, and customer reviews in a visually appealing way using **HTML** and **CSS**.
